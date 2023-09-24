@@ -2849,7 +2849,7 @@
     (pin "2" (uuid 190d2a27-5e2a-4d67-9dd5-03a6ec0c7f9b))
     (pin "3" (uuid 246d0fe4-0af1-4ca9-a009-b75daa61a1ce))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "Y1") (unit 1)
         )
@@ -2879,7 +2879,7 @@
     )
     (pin "1" (uuid 63144285-e5ee-4372-ab31-48c81a65a80c))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR057") (unit 1)
         )
@@ -2923,7 +2923,7 @@
     (pin "1" (uuid 62f0c518-6924-4deb-ab30-cfbb20f18852))
     (pin "2" (uuid 074f2ef2-10b5-451d-8305-ef910d5429db))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R5") (unit 1)
         )
@@ -2954,7 +2954,7 @@
     (pin "1" (uuid 1ef34a81-cb64-451c-a29f-0fabd501d2b5))
     (pin "2" (uuid 8f8758f5-7516-46be-b05e-b734038fd46b))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C4") (unit 1)
         )
@@ -2984,7 +2984,7 @@
     )
     (pin "1" (uuid 4e94cb3a-05a9-4bfb-997f-6ff3754b789d))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR016") (unit 1)
         )
@@ -3019,7 +3019,7 @@
     (pin "5" (uuid 7a4191ed-7c1d-4819-bdf1-37ab6fada19d))
     (pin "MP" (uuid 9830faeb-2496-44e1-8ce8-a50514766625))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "J4") (unit 1)
         )
@@ -3045,7 +3045,7 @@
     (pin "1" (uuid 2033d286-9869-4d8e-b53a-b2691b79ab19))
     (pin "2" (uuid 7a9b1c9d-122c-44ba-bc90-1115862c7a40))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C3") (unit 1)
         )
@@ -3075,7 +3075,7 @@
     )
     (pin "1" (uuid e62509ad-e2d7-4fb7-b4e3-15c183d0f11e))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR07") (unit 1)
         )
@@ -3105,7 +3105,7 @@
     )
     (pin "1" (uuid bfe7ecaf-317e-4432-9066-9a981fa0352f))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR019") (unit 1)
         )
@@ -3139,7 +3139,7 @@
     (pin "1" (uuid f343196c-d6ce-4365-8722-0493db015aa3))
     (pin "2" (uuid a2afe273-28d5-445f-9745-d77c37729dc1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R4") (unit 1)
         )
@@ -3169,7 +3169,7 @@
     )
     (pin "1" (uuid 3cb583ec-836e-47b6-ad23-a10e5be96136))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR045") (unit 1)
         )
@@ -3188,7 +3188,7 @@
     (property "Reference" "C15" (at 184.785 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 184.785 123.825 0)
+    (property "Value" "100n" (at 184.785 123.825 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 183.515 121.92 0)
@@ -3200,7 +3200,7 @@
     (pin "1" (uuid ad179e51-3b3b-4fba-bf11-cfa280684274))
     (pin "2" (uuid 407a2748-bdd7-43f7-89aa-a6a153b52b77))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C15") (unit 1)
         )
@@ -3231,7 +3231,7 @@
     (pin "1" (uuid ebc6a2a1-917d-4129-8136-881230dd7375))
     (pin "2" (uuid 3b5f5583-57e3-4e83-81c7-72deaa7599fb))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C9") (unit 1)
         )
@@ -3261,7 +3261,7 @@
     )
     (pin "1" (uuid abb23366-0c21-4ad2-adac-6c8867d1b5ff))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR046") (unit 1)
         )
@@ -3291,7 +3291,7 @@
     )
     (pin "1" (uuid 4065eee8-154a-4c88-87c3-c105fb9c7d28))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#FLG02") (unit 1)
         )
@@ -3326,7 +3326,7 @@
           (reference "#PWR0102") (unit 1)
         )
       )
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR038") (unit 1)
         )
@@ -3356,7 +3356,7 @@
     )
     (pin "1" (uuid 3a3fc229-ff27-40dc-9440-e05999ac3306))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR049") (unit 1)
         )
@@ -3389,7 +3389,7 @@
     (pin "3" (uuid 034286ee-55dc-4567-bdc2-067ef7cf324c))
     (pin "4" (uuid afe4bd97-a944-4bbd-8af9-31a9976e3119))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "LED2") (unit 1)
         )
@@ -3419,7 +3419,7 @@
     )
     (pin "1" (uuid ef9fac69-3ad4-4382-9d6c-090267359c32))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR033") (unit 1)
         )
@@ -3449,7 +3449,7 @@
     )
     (pin "1" (uuid f461876d-94ca-40fb-8784-0bcaead66306))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR047") (unit 1)
         )
@@ -3479,7 +3479,7 @@
     )
     (pin "1" (uuid 9853923b-5b8b-460e-9b49-2bb3c0c3f08c))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR042") (unit 1)
         )
@@ -3509,7 +3509,7 @@
     )
     (pin "1" (uuid 190f1e6c-4a99-4a85-9ca6-85704e7af4e9))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR027") (unit 1)
         )
@@ -3564,7 +3564,7 @@
     (pin "B9" (uuid 894fa852-b7ae-4b06-b43b-15652ad4449a))
     (pin "S1" (uuid 2cf4620b-2779-4c24-a9c8-a208a0d516d1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "J3") (unit 1)
         )
@@ -3594,7 +3594,7 @@
     )
     (pin "1" (uuid 397de61a-722f-41c7-9183-8f384f2d54bf))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR024") (unit 1)
         )
@@ -3624,7 +3624,7 @@
     )
     (pin "1" (uuid bd8eb23a-a75f-496e-8933-509c2f6839ff))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR059") (unit 1)
         )
@@ -3664,7 +3664,7 @@
     )
     (pin "1" (uuid 93635aa6-202f-4b92-8fbb-5afa58b4ae69))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR06") (unit 1)
         )
@@ -3694,7 +3694,7 @@
     )
     (pin "1" (uuid 660a7218-94e0-4c22-9352-3978a53a33a1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR030") (unit 1)
         )
@@ -3724,7 +3724,7 @@
     )
     (pin "1" (uuid bb6a4cdc-5b5d-40ba-99c7-527adadbc374))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR061") (unit 1)
         )
@@ -3743,7 +3743,7 @@
     (property "Reference" "C17" (at 202.565 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 202.565 123.825 0)
+    (property "Value" "100n" (at 202.565 123.825 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 201.295 121.92 0)
@@ -3755,7 +3755,7 @@
     (pin "1" (uuid d6f24ecc-d857-4fbe-936c-dbb44fd05f96))
     (pin "2" (uuid fc217a6a-bc54-40e0-b722-8567334e4d26))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C17") (unit 1)
         )
@@ -3788,7 +3788,7 @@
     (pin "3" (uuid 0e4ef088-a200-4b61-b70b-79d8376c4e8a))
     (pin "4" (uuid bd4eacda-acd5-4647-ba1c-6c7127ee10d0))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "LED1") (unit 1)
         )
@@ -3820,7 +3820,7 @@
     (pin "2" (uuid 9fd8ef80-ddfe-495c-b007-55fc83b253e4))
     (pin "3" (uuid 4b531a79-1afd-4118-b9ee-aac2d904ad92))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "U2") (unit 1)
         )
@@ -3839,7 +3839,7 @@
     (property "Reference" "C18" (at 211.455 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 211.455 123.825 0)
+    (property "Value" "100n" (at 211.455 123.825 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 210.185 121.92 0)
@@ -3851,7 +3851,7 @@
     (pin "1" (uuid d06a44d5-15be-41aa-96cf-8125b473fe03))
     (pin "2" (uuid 92e87227-f194-43b1-ac77-41b7a49b08d8))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C18") (unit 1)
         )
@@ -3881,7 +3881,7 @@
     )
     (pin "1" (uuid 25c4f9f4-7818-4a61-88ea-9122b24ecb58))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR039") (unit 1)
         )
@@ -3922,7 +3922,7 @@
     (pin "1" (uuid f204cd5f-ece6-483c-bf15-819634868552))
     (pin "2" (uuid c228cb53-d734-45dc-83ba-40bd621dc9c5))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C2") (unit 1)
         )
@@ -3952,7 +3952,7 @@
     )
     (pin "1" (uuid 66c734cd-f881-41c9-b674-a58d663759b8))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR032") (unit 1)
         )
@@ -3982,7 +3982,7 @@
     )
     (pin "1" (uuid 17a53c55-970a-43d0-8d50-58686ff862a5))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR020") (unit 1)
         )
@@ -4012,7 +4012,7 @@
     )
     (pin "1" (uuid 43312267-3c97-4f52-969a-649d1a2e38e3))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR051") (unit 1)
         )
@@ -4053,7 +4053,7 @@
     (pin "1" (uuid 8f96fab7-0713-49d0-8ef7-af1433ca0d32))
     (pin "2" (uuid ef0a5b93-ff9b-4f34-94b6-9a533fdf9a60))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R8") (unit 1)
         )
@@ -4083,7 +4083,7 @@
     )
     (pin "1" (uuid 11534227-e355-4f11-9310-4b86fdeaa77a))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR029") (unit 1)
         )
@@ -4113,7 +4113,7 @@
     )
     (pin "1" (uuid 6818aef5-90dd-44b9-b096-cd110b4abf5a))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR062") (unit 1)
         )
@@ -4144,7 +4144,7 @@
     (pin "1" (uuid c59ba72f-235d-4c86-be79-e1d3e7f425d6))
     (pin "2" (uuid 7d926fc2-9454-4142-bf1f-933110cb5fbc))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C1") (unit 1)
         )
@@ -4174,7 +4174,7 @@
     )
     (pin "1" (uuid 0ffd8824-92cd-49cc-a644-9fa8268682d4))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR043") (unit 1)
         )
@@ -4255,7 +4255,7 @@
     (pin "8" (uuid 003237f3-3810-4e37-8d8a-b03c8fbe3f0d))
     (pin "9" (uuid a363cb2c-90e9-4717-9e57-d7d68e69d136))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "U1") (unit 1)
         )
@@ -4294,7 +4294,7 @@
     (pin "4" (uuid 4d415893-e736-4455-8173-c491b9677dd8))
     (pin "MP" (uuid e6be12b7-5d49-42bf-a6d3-fb27b31adcef))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "J2") (unit 1)
         )
@@ -4335,7 +4335,7 @@
     (pin "1" (uuid 1080a3ae-827a-4f2c-9d63-91e6f8b5b2c3))
     (pin "2" (uuid ccc49e2d-54db-45c5-b655-29543ae74c7f))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C8") (unit 1)
         )
@@ -4365,7 +4365,7 @@
     )
     (pin "1" (uuid ccb38b77-01a7-427b-9c77-2ce6e24d7244))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR048") (unit 1)
         )
@@ -4395,7 +4395,7 @@
     )
     (pin "1" (uuid 902db316-67e9-4362-bc88-33cffca90f74))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR013") (unit 1)
         )
@@ -4425,7 +4425,7 @@
     )
     (pin "1" (uuid b551b561-c1f0-49ad-9f16-bc653c6f75b1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR012") (unit 1)
         )
@@ -4455,7 +4455,7 @@
     )
     (pin "1" (uuid 0330c1a2-cb5f-4e24-9b3b-a91cd740209c))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR056") (unit 1)
         )
@@ -4496,7 +4496,7 @@
     (pin "1" (uuid 075ff49b-459c-4329-81f6-e533a2667d11))
     (pin "2" (uuid 20632c37-f935-496a-8ff9-88ff1e05a2cc))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R13") (unit 1)
         )
@@ -4529,7 +4529,7 @@
     (pin "3" (uuid 16bbb388-d432-47f7-8b3c-bd658b6e7cec))
     (pin "4" (uuid 7bfa1730-7149-430d-8655-d716ac3f32b7))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "D1") (unit 1)
         )
@@ -4560,7 +4560,7 @@
     (pin "1" (uuid 8d765b60-af2d-4e8d-97ec-6aa382e11ec7))
     (pin "2" (uuid b91ec4cc-d859-44cb-ad30-99c0d6705bc3))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C5") (unit 1)
         )
@@ -4594,7 +4594,7 @@
     (pin "1" (uuid 75f2b659-d42e-4989-a961-7c954afe0487))
     (pin "2" (uuid 1672d5e9-7050-4745-ac5f-d89a4ebf58bb))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R6") (unit 1)
         )
@@ -4625,7 +4625,7 @@
     (pin "1" (uuid 37ce7bc3-45c8-4862-afdf-a2b1ce28120c))
     (pin "2" (uuid 7847a9ca-b201-4ffe-99b7-e97f87d76886))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "F_USBC1") (unit 1)
         )
@@ -4659,7 +4659,7 @@
     (pin "1" (uuid 010f1b7c-2196-4b6e-bc4a-f36eb368d8f6))
     (pin "2" (uuid ef992bda-ba17-4950-a725-27588a1e043d))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R2") (unit 1)
         )
@@ -4689,7 +4689,7 @@
     )
     (pin "1" (uuid 88e52143-b8b9-4fb8-8d20-4f3b4e4307b1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR014") (unit 1)
         )
@@ -4720,7 +4720,7 @@
     (pin "1" (uuid e3e33cb8-a8ab-4990-82b4-fc035300b48b))
     (pin "2" (uuid 06079130-66fc-4d52-a1c9-51501b5cdf63))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "SW1") (unit 1)
         )
@@ -4759,7 +4759,7 @@
     (pin "1" (uuid fe642473-44c6-42c6-879d-b81db656052d))
     (pin "2" (uuid b9f60a6c-27f3-47b6-a486-8d76bfc23067))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R9") (unit 1)
         )
@@ -4794,7 +4794,7 @@
           (reference "#PWR0102") (unit 1)
         )
       )
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR037") (unit 1)
         )
@@ -4824,7 +4824,7 @@
     )
     (pin "1" (uuid 69aad8b2-7b19-4d2a-b167-aa5407347ca6))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR050") (unit 1)
         )
@@ -4855,7 +4855,7 @@
     (pin "1" (uuid e9f2c75f-1787-40fd-b0e0-53405095d190))
     (pin "2" (uuid c243e903-2c62-4091-bb03-3064b586bfaa))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C6") (unit 1)
         )
@@ -4886,7 +4886,7 @@
     (pin "1" (uuid dc66d3b3-ad30-4138-ade3-f3ddb93e4f31))
     (pin "2" (uuid 7beb8b57-7dec-49b8-995c-2bcb7d1b9bf6))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R11") (unit 1)
         )
@@ -4916,7 +4916,7 @@
     )
     (pin "1" (uuid 5c26e1b0-eeec-44cf-b43b-57cd1921e277))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR017") (unit 1)
         )
@@ -4947,7 +4947,7 @@
     (pin "1" (uuid 3b36914a-be57-439d-8780-6362982eea53))
     (pin "2" (uuid b03b5d52-ae7e-475c-9992-c27df68b91de))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R12") (unit 1)
         )
@@ -4977,7 +4977,7 @@
     )
     (pin "1" (uuid 3ee07364-5166-45db-b78e-73f4b9353855))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR08") (unit 1)
         )
@@ -5007,7 +5007,7 @@
     )
     (pin "1" (uuid 2e1a0aa4-1826-45a5-8f34-8aae7bbe208d))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#FLG01") (unit 1)
         )
@@ -5037,7 +5037,7 @@
     )
     (pin "1" (uuid 36e1dc3a-1a3a-452e-a191-5ecec94d825d))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR060") (unit 1)
         )
@@ -5071,7 +5071,7 @@
     (pin "1" (uuid 5065dd9a-1663-4279-b386-425691ce155f))
     (pin "2" (uuid 018a9c0d-bef1-4726-9382-ae902293d00e))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R3") (unit 1)
         )
@@ -5101,7 +5101,7 @@
     )
     (pin "1" (uuid d44aa1c8-43eb-4c42-965d-c6a9f48a90b3))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR034") (unit 1)
         )
@@ -5131,7 +5131,7 @@
     )
     (pin "1" (uuid 2444dd6d-0f3b-4a21-8661-14be07bf4830))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR015") (unit 1)
         )
@@ -5150,7 +5150,7 @@
     (property "Reference" "C16" (at 193.675 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 193.675 123.825 0)
+    (property "Value" "100n" (at 193.675 123.825 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 192.405 121.92 0)
@@ -5162,7 +5162,7 @@
     (pin "1" (uuid c5aa3889-bdc5-456f-b723-1b3e1ad50223))
     (pin "2" (uuid 616e4c84-653e-4e74-bd7a-6c396d661660))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C16") (unit 1)
         )
@@ -5192,7 +5192,7 @@
     )
     (pin "1" (uuid 75a4e722-a910-45dc-a1e8-9ac1d1b64ab1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR023") (unit 1)
         )
@@ -5226,7 +5226,7 @@
     (pin "1" (uuid 5fd9f8e1-2885-4613-882b-d69544fad431))
     (pin "2" (uuid 3342f76c-739c-4226-a542-324b5f85c1c7))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "R1") (unit 1)
         )
@@ -5256,7 +5256,7 @@
     )
     (pin "1" (uuid ca3e13ad-53ed-4f28-905f-df702593aa6a))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR035") (unit 1)
         )
@@ -5290,7 +5290,7 @@
     (pin "4" (uuid 65d04fe3-452f-4be7-a21a-5f3e9eccee07))
     (pin "5" (uuid 971c4e63-f650-4b80-b0ff-5dc466a5d52d))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "U3") (unit 1)
         )
@@ -5321,7 +5321,7 @@
     (pin "1" (uuid 7a465745-7d26-437c-98f7-29f492582749))
     (pin "2" (uuid e52bdda2-c7ae-440f-922b-80fd1d3f4093))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "C7") (unit 1)
         )
@@ -5351,7 +5351,7 @@
     )
     (pin "1" (uuid 762c28d1-11fb-4702-8b82-d1a1532c9d19))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR031") (unit 1)
         )
@@ -5385,7 +5385,7 @@
     (pin "4" (uuid 82735ffc-ae3b-42f7-94a6-720e9e12dbe9))
     (pin "MP" (uuid e3403d46-cdbc-4f7b-867a-9d3aae91bd48))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "J1") (unit 1)
         )
@@ -5425,7 +5425,7 @@
     )
     (pin "1" (uuid 07bcf540-0a0c-4955-9387-57df221dfec9))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR022") (unit 1)
         )
@@ -5458,7 +5458,7 @@
     (pin "3" (uuid eab694c3-6039-4e43-996d-5e8745521c55))
     (pin "4" (uuid 2243a8f4-00fb-4864-8b75-b885fdcdebe4))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "LED3") (unit 1)
         )
@@ -5488,7 +5488,7 @@
     )
     (pin "1" (uuid 66a78aa3-5c12-4e43-bd97-4a8e5a8c7207))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR058") (unit 1)
         )
@@ -5528,7 +5528,7 @@
     )
     (pin "1" (uuid ffa30efe-97c4-4e28-a062-293a2a9f01c1))
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b"
           (reference "#PWR021") (unit 1)
         )
@@ -5552,7 +5552,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b" (page "3"))
       )
     )
@@ -5569,7 +5569,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b" (page "4"))
       )
     )
@@ -5586,7 +5586,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "vanagon topre"
+      (project "the-nicholas-van"
         (path "/38f182bd-9097-4ce3-95d4-cd91b210c79b" (page "2"))
       )
     )
