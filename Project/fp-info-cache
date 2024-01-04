@@ -1,4 +1,4 @@
-23217992141955364
+23219692126163951
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95913,6 +95913,13 @@ connector Molex Pico-EZmate side entry
 0
 22
 4
+cipulot_parts
+PinHeader_RGB strip
+Through hole straight pin header, 1x03, 1.27mm pitch, single row
+Through hole pin header THT 1x03 1.27mm single row
+0
+3
+3
 cipulot_parts
 Pin_Small
 
