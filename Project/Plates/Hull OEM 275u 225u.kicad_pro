@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "vanagon topre.kicad_pro",
+    "filename": "Hull OEM 275u 225u.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -475,7 +475,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hull OEM 275u 225u.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
