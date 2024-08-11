@@ -68,8 +68,6 @@
         "copper_edge_clearance|34299000|59345000|17c4c25a-ef09-469f-b995-1a84d25575b0|d3640a36-7c67-43ce-b4a8-7cb34534bb05",
         "copper_edge_clearance|34300000|63477500|a9a63e05-48f1-483f-8922-2906ccd72526|4f339782-104b-4513-846d-587c2f2a6bba",
         "copper_edge_clearance|34300000|64977500|a9a63e05-48f1-483f-8922-2906ccd72526|458cb1a6-97d9-41cd-96ad-5f77253d8d7f",
-        "copper_edge_clearance|51530000|49212500|16b38e4b-0ebd-42db-abec-4793c72ae204|ec326c8d-609e-4c38-8dec-1827f6ac18c4",
-        "copper_edge_clearance|62770000|49212500|22cb9d7d-f204-4344-8aff-052be61b21b3|81675e15-51b8-4023-bfbc-9654d4c14428",
         "courtyards_overlap|71143749|69745001|4afb3ecf-2591-405b-b4d8-084df4e28324|db091dad-7430-49d0-a62b-8f5cd41f8186"
       ],
       "meta": {
@@ -463,7 +461,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "the-nicholas-van MX.kicad_pro",
+    "filename": "the-nicholas-van V1.kicad_pro",
     "version": 1
   },
   "net_settings": {
