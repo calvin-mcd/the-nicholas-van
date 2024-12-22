@@ -4,6 +4,11 @@ The Nicholas Van is an EC (topre) pcb for trashman's vanagon keyboard. The pcb s
 Plate files for Hull and Embrace cases are available. Check the plate & hardware section for what you will need. 
 The pcb comes with a usb port by default, but supports a Daughterboard connector (either jst or pico). It also supports another 5pin Jst connector for the Rotary Encoder board from the Embrace.
 
+***VERSIONS***:
+In the production folder you will find both the prototype production files and the revision files (as well as various plate files). Please be aware of their differences and what aspects have not been confirmed to work yet when ordering pcbs.
+- The prototype was sporting another MCU and its rgb could not be made to work. This could have been a firmware issue, but hardware issues could not be ruled out. Otherwise the pcb was fully working
+- The revision is using another MCU and simplified components and an attempt to fix the rgb hardware. The revision has not been prototyped yet and firmware needs to be adapted to its rgb hardware setup.
+
 ## Layout
 
 ![](https://github.com/calvin-mcd/the-nicholas-van/blob/main/Images/KLE.png)
@@ -31,7 +36,12 @@ Please note that this project is a work in progress with no guarantees of a work
 
 ## License
 
-This project is released under the GPL v3 License. Please refer to the LICENCE file.
+Shield: [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Credits
 
