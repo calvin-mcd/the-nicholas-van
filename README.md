@@ -1,7 +1,7 @@
 ﻿# The Nicholas Van
  
 The Nicholas Van is an EC (topre) pcb for trashman's [v4n4g0n](https://trashman.wiki/keyboards/v4n4g0n) keyboard. The pcb supports a both the 625U spacebar, and the split 275U, 225U spacebars. But each need their own respective plate. 
-Plate files for Hull and Embrace cases are available. Check the plate & hardware section for what you will need. 
+Some plate files can be found in the Production folder. Check the plate & hardware section beelow for what you will need. 
 The pcb comes with a usb port by default, but supports a Daughterboard connector (either jst or pico). It also supports another 5pin Jst connector for the Rotary Encoder board from the Embrace.
 
 ***VERSIONS***:
