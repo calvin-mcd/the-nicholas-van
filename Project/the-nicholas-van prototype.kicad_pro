@@ -454,7 +454,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "the-nicholas-van.kicad_pro",
+    "filename": "the-nicholas-van prototype.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -519,7 +519,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
